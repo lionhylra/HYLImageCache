@@ -1,0 +1,3 @@
+[submodule "HYLImageManager"]
+	path = HYLImageManager
+	url = https://github.com/lionhylra/HYLImageManager.git
